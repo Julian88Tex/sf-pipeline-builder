@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Salesforce-style cloud with a pipeline flowing through it -->
+  <rect width="64" height="64" rx="14" fill="#0ea5e9"/>
+  <g transform="translate(2.85 2.85) scale(2.43)">
+    <path fill="#ffffff" d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/>
+    <path d="M7.5 13.5h9" stroke="#0ea5e9" stroke-width="1.4"/>
+    <circle cx="7.5" cy="13.5" r="1.5" fill="#0ea5e9"/>
+    <circle cx="12" cy="13.5" r="1.5" fill="#0ea5e9"/>
+    <circle cx="16.5" cy="13.5" r="1.5" fill="#0ea5e9"/>
+  </g>
+</svg>
